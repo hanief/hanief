@@ -1,20 +1,18 @@
-# Hanief Utama
-
-```text
- _   _             _      __   _   _ _                       
-| | | | __ _ _ __ (_) ___ / _| | | | | |_ __ _ _ __ ___   __ _
-| |_| |/ _` | '_ \| |/ _ \ |_  | |_| | __/ _` | '_ ` _ \ / _` |
-|  _  | (_| | | | | |  __/  _| |  _  | || (_| | | | | | | (_| |
-|_| |_|\__,_|_| |_|_|\___|_|   |_| |_|\__\__,_|_| |_| |_|\__,_|
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hanief%20Utama&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full-stack%20Developer%20%26%20Technical%20Leader%20%E2%80%A2%20Indonesia&descSize=18&descAlignY=58&descColor=fff)
 
 I am a Full-stack developer and technical leader based in Indonesia. I have spent more than a decade building web and mobile products, leading teams, and turning vague product ideas into reliable software that ships.
 
 My background spans frontend-heavy product work, mobile apps, backend systems, and AI-assisted tooling. These days I am especially interested in practical software that improves operations, sharpens product quality, and helps small teams move faster.
 
-- 🌐 Website: [haniefutama.com](https://haniefutama.com)
-- 💼 LinkedIn: [linkedin.com/in/haniefutama](https://www.linkedin.com/in/haniefutama)
-- 📫 Email: [halo@haniefutama.com](mailto:halo@haniefutama.com)
+🌐 [haniefutama.com](https://haniefutama.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/haniefutama) &nbsp;|&nbsp; 📫 [halo@haniefutama.com](mailto:halo@haniefutama.com) &nbsp;|&nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hanief.hanief)
+
+---
+
+## Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=react,ts,swift,go,python,laravel,astro,nodejs,postgres,docker)](https://skillicons.dev)
+
+---
 
 ## What I Do 🛠️
 
@@ -23,15 +21,31 @@ My background spans frontend-heavy product work, mobile apps, backend systems, a
 - Work across React, React Native, TypeScript, Swift, Laravel, Astro, Go, and Python.
 - Use AI tools pragmatically to accelerate development, automation, and internal workflows.
 
-## A Short Bio 👋
+---
 
-I care about useful software, clean execution, and teams that can sustain their pace. Over the years I have worked as an iOS developer, full-stack engineer, frontend tech lead, founder, and CTO across product, consulting, education, and research-adjacent environments.
+## GitHub Stats 📊
 
-My resume work includes shipping SDKs and apps, building dashboards and operational systems, improving school admissions flows, scaling survey tooling, and helping teams adopt better engineering habits. I try to stay ambitious in execution and modest in claims.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanief&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanief&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hanief&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanief/hanief/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hanief/hanief/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hanief/hanief/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 ## Public Repositories 📚
-
-Below is the current list of my public non-fork repositories on GitHub.
 
 | Repository | Description |
 | --- | --- |
@@ -58,8 +72,12 @@ Below is the current list of my public non-fork repositories on GitHub.
 | [tasks](https://github.com/hanief/tasks) | Simple todo app. |
 | [WordShuffle](https://github.com/hanief/WordShuffle) | Word shuffle training game. |
 
+---
+
 ## Current Focus 🎯
 
 - Building practical software products for education, publishing, and operational workflows.
 - Exploring AI-native product patterns that are genuinely useful outside demos.
 - Keeping personal projects small, shippable, and maintainable.
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
