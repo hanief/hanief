@@ -1,27 +1,35 @@
 # Hanief Utama
 
+```text
+ _   _             _      __   _   _ _                       
+| | | | __ _ _ __ (_) ___ / _| | | | | |_ __ _ _ __ ___   __ _
+| |_| |/ _` | '_ \| |/ _ \ |_  | |_| | __/ _` | '_ ` _ \ / _` |
+|  _  | (_| | | | | |  __/  _| |  _  | || (_| | | | | | | (_| |
+|_| |_|\__,_|_| |_|_|\___|_|   |_| |_|\__\__,_|_| |_| |_|\__,_|
+```
+
 Full-stack developer and technical leader based in Indonesia. I have spent more than a decade building web and mobile products, leading teams, and turning vague product ideas into reliable software that ships.
 
 My background spans frontend-heavy product work, mobile apps, backend systems, and AI-assisted tooling. These days I am especially interested in practical software that improves operations, sharpens product quality, and helps small teams move faster.
 
-- Website: [haniefutama.com](https://haniefutama.com)
-- LinkedIn: [linkedin.com/in/haniefutama](https://www.linkedin.com/in/haniefutama)
-- Email: [halo@haniefutama.com](mailto:halo@haniefutama.com)
+- 🌐 Website: [haniefutama.com](https://haniefutama.com)
+- 💼 LinkedIn: [linkedin.com/in/haniefutama](https://www.linkedin.com/in/haniefutama)
+- 📫 Email: [halo@haniefutama.com](mailto:halo@haniefutama.com)
 
-## What I Do
+## What I Do 🛠️
 
 - Build production web and mobile applications with a strong product mindset.
 - Lead frontend and full-stack teams, mentor engineers, and improve delivery quality.
 - Work across React, React Native, TypeScript, Swift, Laravel, Astro, Go, and Python.
 - Use AI tools pragmatically to accelerate development, automation, and internal workflows.
 
-## A Short Bio
+## A Short Bio 👋
 
 I care about useful software, clean execution, and teams that can sustain their pace. Over the years I have worked as an iOS developer, full-stack engineer, frontend tech lead, founder, and CTO across product, consulting, education, and research-adjacent environments.
 
 My resume work includes shipping SDKs and apps, building dashboards and operational systems, improving school admissions flows, scaling survey tooling, and helping teams adopt better engineering habits. I try to stay ambitious in execution and modest in claims.
 
-## Public Repositories
+## Public Repositories 📚
 
 Below is the current list of my public non-fork repositories on GitHub.
 
@@ -52,7 +60,7 @@ Below is the current list of my public non-fork repositories on GitHub.
 | [tasks](https://github.com/hanief/tasks) | Simple todo app. |
 | [WordShuffle](https://github.com/hanief/WordShuffle) | Word shuffle training game. |
 
-## Current Focus
+## Current Focus 🎯
 
 - Building practical software products for education, publishing, and operational workflows.
 - Exploring AI-native product patterns that are genuinely useful outside demos.
