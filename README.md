@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hanief%20Utama&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full-stack%20Developer%20%26%20Technical%20Leader%20%E2%80%A2%20Indonesia&descSize=18&descAlignY=58&descColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hanief%20Utama&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Technical%20Leader%20%7C%20Indonesia&descSize=18&descAlignY=58&descColor=fff)
 
 I am a Full-stack developer and technical leader based in Indonesia. I have spent more than a decade building web and mobile products, leading teams, and turning vague product ideas into reliable software that ships.
 
