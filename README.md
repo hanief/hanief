@@ -50,10 +50,6 @@ I am a Full-stack developer and technical leader based in Indonesia. I have spen
 ## Featured Projects 📌
 
 <p align="center">
-  <a href="https://github.com/hanief/gaffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=gaffer&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/hanief/journai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=journai&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/hanief/Arsipin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=Arsipin&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/hanief/archivist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=archivist&theme=tokyonight&hide_border=true" /></a>
 </p>
