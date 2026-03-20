@@ -49,28 +49,14 @@ My background spans frontend-heavy product work, mobile apps, backend systems, a
 
 | Repository | Description |
 | --- | --- |
-| [Arsipin](https://github.com/hanief/Arsipin) | Safari extension to send articles to `archive.is`. |
-| [booraaq.com](https://github.com/hanief/booraaq.com) | Source for the Booraaq website. |
-| [cars_data](https://github.com/hanief/cars_data) | Data pipeline script for a data science course assignment. |
-| [ClooneyFace](https://github.com/hanief/ClooneyFace) | Hack24 submission built in Swift. |
-| [CS193P](https://github.com/hanief/CS193P) | My Stanford Spring CS193P course notes and code. |
 | [gaffer](https://github.com/hanief/gaffer) | Football manager simulation with OpenAI. |
-| [hanief](https://github.com/hanief/hanief) | Source for my personal profile site. |
-| [haniefutama](https://github.com/hanief/haniefutama) | My personal blog. |
-| [archivist](https://github.com/hanief/archivist) | Chrome extension to archive web pages. |
-| [isutdwinyet](https://github.com/hanief/isutdwinyet) | "Is UTD Win Yet" tracking site. |
 | [journai](https://github.com/hanief/journai) | Journaling mobile app powered by React Native and Whisper. |
-| [LinkHub](https://github.com/hanief/LinkHub) | Simple links website like LinkTree. |
-| [notes](https://github.com/hanief/notes) | Notes app for JogjaJS. |
+| [Arsipin](https://github.com/hanief/Arsipin) | Safari extension to send articles to `archive.is`. |
+| [archivist](https://github.com/hanief/archivist) | Chrome extension to archive web pages. |
 | [pagipetang](https://github.com/hanief/pagipetang) | Islamic morning and evening remembrance app built with TypeScript-based tooling in this repo. |
-| [PopularMovie](https://github.com/hanief/PopularMovie) | Popular movie retrieval and display app for the Udacity Android Nanodegree. |
 | [prostudy](https://github.com/hanief/prostudy) | Decision support system for project feasibility studies using Analytic Hierarchy Process. |
-| [ragmask](https://github.com/hanief/ragmask) | My Indonesian translation of home made Covid mask. |
-| [spinner](https://github.com/hanief/spinner) | Small TypeScript project named `spinner`. |
+| [ClooneyFace](https://github.com/hanief/ClooneyFace) | Hack24 submission built in Swift. |
 | [SpellingBee](https://github.com/hanief/SpellingBee) | Spelling Bee game. |
-| [task-server](https://github.com/hanief/task-server) | Backend service for task-oriented apps and experiments. |
-| [tasks](https://github.com/hanief/tasks) | Simple todo app. |
-| [WordShuffle](https://github.com/hanief/WordShuffle) | Word shuffle training game. |
 
 ---
 
