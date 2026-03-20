@@ -2,9 +2,11 @@
 
 I am a Full-stack developer and technical leader based in Indonesia. I have spent more than a decade building web and mobile products, leading teams, and turning vague product ideas into reliable software that ships.
 
-My background spans frontend-heavy product work, mobile apps, backend systems, and AI-assisted tooling. These days I am especially interested in practical software that improves operations, sharpens product quality, and helps small teams move faster.
+**iOS Dev → Full-stack Engineer → Frontend Tech Lead → Founder → CTO**
 
 🌐 [haniefutama.com](https://haniefutama.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/haniefutama) &nbsp;|&nbsp; 📫 [halo@haniefutama.com](mailto:halo@haniefutama.com) &nbsp;|&nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hanief.hanief)
+
+> 💬 Open to technical leadership roles, consulting, and collaborations on AI-native product ideas.
 
 ---
 
@@ -14,12 +16,9 @@ My background spans frontend-heavy product work, mobile apps, backend systems, a
 
 ---
 
-## What I Do 🛠️
+## By the Numbers
 
-- Build production web and mobile applications with a strong product mindset.
-- Lead frontend and full-stack teams, mentor engineers, and improve delivery quality.
-- Work across React, React Native, TypeScript, Swift, Laravel, Astro, Go, and Python.
-- Use AI tools pragmatically to accelerate development, automation, and internal workflows.
+🗓 **10+ years** shipping products &nbsp;|&nbsp; 📱 **5+ mobile apps** (iOS + React Native) &nbsp;|&nbsp; 🌍 Teams across **product, consulting, education, research** &nbsp;|&nbsp; 🤖 AI-native tooling since **2022**
 
 ---
 
@@ -31,6 +30,9 @@ My background spans frontend-heavy product work, mobile apps, backend systems, a
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hanief&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanief&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -45,18 +47,20 @@ My background spans frontend-heavy product work, mobile apps, backend systems, a
 
 ---
 
-## Public Repositories 📚
+## Featured Projects 📌
 
-| Repository | Description |
-| --- | --- |
-| [gaffer](https://github.com/hanief/gaffer) | Football manager simulation with OpenAI. |
-| [journai](https://github.com/hanief/journai) | Journaling mobile app powered by React Native and Whisper. |
-| [Arsipin](https://github.com/hanief/Arsipin) | Safari extension to send articles to `archive.is`. |
-| [archivist](https://github.com/hanief/archivist) | Chrome extension to archive web pages. |
-| [pagipetang](https://github.com/hanief/pagipetang) | Islamic morning and evening remembrance app built with TypeScript-based tooling in this repo. |
-| [prostudy](https://github.com/hanief/prostudy) | Decision support system for project feasibility studies using Analytic Hierarchy Process. |
-| [ClooneyFace](https://github.com/hanief/ClooneyFace) | Hack24 submission built in Swift. |
-| [SpellingBee](https://github.com/hanief/SpellingBee) | Spelling Bee game. |
+<p align="center">
+  <a href="https://github.com/hanief/gaffer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=gaffer&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/hanief/journai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=journai&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hanief/Arsipin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=Arsipin&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/hanief/archivist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=archivist&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hanief/pagipetang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=pagipetang&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/hanief/prostudy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hanief&repo=prostudy&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
